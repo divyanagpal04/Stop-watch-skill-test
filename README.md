@@ -1,1 +1,0 @@
-# Stop-watch-skill-test
